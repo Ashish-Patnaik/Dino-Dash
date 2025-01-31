@@ -10,7 +10,7 @@ Dino Dash is an endless platformer web game made with Godot Engine, heavily insp
 
 <p align="center">
   <a href="https://ashish-patnaik.itch.io/dino-dash">
-    <img src="path/to/itchio-button.png" alt="Play on Itch.io" width="150"> 
+    <img src="imp/c.png" alt="Play on Itch.io" width="150"> 
   </a>
 </p>
 
