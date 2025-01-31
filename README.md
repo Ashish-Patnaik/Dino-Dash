@@ -6,6 +6,14 @@
 
 Dino Dash is an endless platformer web game made with Godot Engine, heavily inspired by the classic Chrome offline dino game.  Dash through the desert, jump over obstacles, and see how far you can run!
 
+## Screenshots 
+
+![1](https://github.com/user-attachments/assets/381aae5a-7675-4060-9309-8ec94f71317f)
+
+![2](https://github.com/user-attachments/assets/3e0e8ca8-714c-4b5d-bcd3-5d593ff0b1db)
+
+![4](https://github.com/user-attachments/assets/54ad9520-9648-4f64-a24f-468664b69108)
+
 ## Play Now!
 
 <p align="center">
@@ -38,13 +46,3 @@ Contributions are welcome! Feel free to submit pull requests with bug fixes, new
 ## License
 
 Dino Dash is released under the MIT License.
-
-
-## Screenshots 
-
-![1](https://github.com/user-attachments/assets/381aae5a-7675-4060-9309-8ec94f71317f)
-![2](https://github.com/user-attachments/assets/3e0e8ca8-714c-4b5d-bcd3-5d593ff0b1db)
-![4](https://github.com/user-attachments/assets/54ad9520-9648-4f64-a24f-468664b69108)
-
-
-
