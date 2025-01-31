@@ -1,4 +1,4 @@
-<h1 align="center">Dino Dash</h1>
+<h1 align="center">DINO DASH</h1>
 
 <p align="center">
   <img src="imp/din.png" alt="Dino Dash Logo" width="200">
@@ -9,8 +9,7 @@ Dino Dash is an endless platformer web game made with Godot Engine, heavily insp
 ## Play Now!
 
 <p align="center">
-  <a href="https://ashish-patnaik.itch.io/dino-dash">
-    <img src="imp/c.png" alt="Play on Itch.io" width="150"> 
+  <a href="https://ashish-patnaik.itch.io/dino-dash">Play Dino Dash Now</a>
   </a>
 </p>
 
@@ -24,21 +23,13 @@ Dino Dash is an endless platformer web game made with Godot Engine, heavily insp
 
 ## How to Play
 
-* Use the **Spacebar** or **Up Arrow Key** to jump.
-* Avoid the cacti and other obstacles.
+* Use the **Spacebar** to jump.
+* Avoid the rocks, barrels, birds and other obstacles.
 * The longer you run, the faster the game gets!
 
 ## Development
 
 Dino Dash was developed using the Godot Engine.
-
-### Building from Source (Optional)
-
-If you want to build the game from source, you'll need to have Godot Engine installed.
-
-1. Clone the repository: `git clone https://github.com/your-username/Dino-Dash.git`
-2. Open the project in Godot Engine.
-3. Export the project for your desired platform.
 
 ## Contributing
 
@@ -46,24 +37,14 @@ Contributions are welcome! Feel free to submit pull requests with bug fixes, new
 
 ## License
 
-Dino Dash is released under the MIT License.  See the [LICENSE](LICENSE) file for details.
+Dino Dash is released under the MIT License.
 
-## Credits
 
-* Game Design & Development: Your Name/Your GitHub Username
-* Art: [Credit any artists or use "Assets created by..." if applicable]
-* Sound Effects: [Credit any sound effect creators or use "Sound effects from..." if applicable]
-* Music: [Credit any music composers or use "Music by..." if applicable]
+## Screenshots 
 
-## Screenshots (Optional)
+![1](https://github.com/user-attachments/assets/381aae5a-7675-4060-9309-8ec94f71317f)
+![2](https://github.com/user-attachments/assets/3e0e8ca8-714c-4b5d-bcd3-5d593ff0b1db)
+![4](https://github.com/user-attachments/assets/54ad9520-9648-4f64-a24f-468664b69108)
 
-<p align="center">
-  <img src="path/to/screenshot1.png" alt="Screenshot 1" width="400">
-  <img src="path/to/screenshot2.png" alt="Screenshot 2" width="400">
-</p>
 
-## Contact
 
-* Email: your.email@example.com
-* Twitter: @your_twitter_handle (Optional)
-* Discord: Your Discord Username/Server Link (Optional)
