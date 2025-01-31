@@ -1,7 +1,7 @@
-# Dino Dash
+<h1 align="center">Dino Dash</h1>
 
 <p align="center">
-  <img src="path/to/your/logo.png" alt="Dino Dash Logo" width="200">
+  <img src="imp/din.png" alt="Dino Dash Logo" width="200">
 </p>
 
 Dino Dash is an endless platformer web game made with Godot Engine, heavily inspired by the classic Chrome offline dino game.  Dash through the desert, jump over obstacles, and see how far you can run!
@@ -9,7 +9,7 @@ Dino Dash is an endless platformer web game made with Godot Engine, heavily insp
 ## Play Now!
 
 <p align="center">
-  <a href="your-itch-io-link">
+  <a href="https://ashish-patnaik.itch.io/dino-dash">
     <img src="path/to/itchio-button.png" alt="Play on Itch.io" width="150"> 
   </a>
 </p>
